@@ -78,3 +78,5 @@
 {"count":8,"head":"4ee530f06b39a0bced9a5dc79968c33597bc939b09ed65e8774ed7fde4e5c2fc","holdout_id":"@runners","prev_anchor":"bf036f06a2623bb394cbdc7db130519a0792eb2a50c51c3696abb736dd34c0f5","seq":41,"time":"2026-10-18T08:00:10+00:00"}
 {"count":10,"head":"7b89c76e13ff188724a61e2fb3f542b3f4e85510b17a9d4af6855488a54cb9e5","holdout_id":"demo-1","prev_anchor":"20272e325906ae3c47b851f31226731a4012173e85ea40782da3a24281e70973","seq":38,"time":"2026-10-18T09:00:10+00:00"}
 {"count":8,"head":"4ee530f06b39a0bced9a5dc79968c33597bc939b09ed65e8774ed7fde4e5c2fc","holdout_id":"@runners","prev_anchor":"4cabfc2a31d35a1dea359b1a17c0c5ddd9bda1eb59a84c5ae02491cc056f2ee3","seq":42,"time":"2026-10-18T09:00:10+00:00"}
+{"count":10,"head":"7b89c76e13ff188724a61e2fb3f542b3f4e85510b17a9d4af6855488a54cb9e5","holdout_id":"demo-1","prev_anchor":"a6837b7498b35f73c63e129f3a3f1a6c0de152093d8568b54d2849fb5f6ef516","seq":39,"time":"2026-10-18T10:00:10+00:00"}
+{"count":8,"head":"4ee530f06b39a0bced9a5dc79968c33597bc939b09ed65e8774ed7fde4e5c2fc","holdout_id":"@runners","prev_anchor":"050658810225350a40006728c2cf2f586cbd25fb9a44a654e6cdfde3e0c59aa3","seq":43,"time":"2026-10-18T10:00:10+00:00"}
